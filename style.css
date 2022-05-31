@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+html
+{
+	margin: 10px auto;
+	max-width: 600px;
+	background-color: GhostWhite;
+	color: RebeccaPurple;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1
+{
+	border: dashed 1px RebeccaPurple;
+	padding: 10px;
+	font-size: 1.5em;
+}
+
+p
+{
+	color: RebeccaPurple;
+	font-size: 1em;
+	text-indent: 1em;
+	text-align: justify;
+	line-height: 1.6em;
+	margin: 0px;
+}
